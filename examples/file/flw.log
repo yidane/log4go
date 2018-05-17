@@ -1,0 +1,8 @@
+[2018/05/17 18:27:18 CST] [INFO] (main.main:23) 123
+[2018/05/17 18:27:18 CST] [INFO] (main.main:38) The time is now: 18:27:18 CST 2018/05/17
+[2018/05/17 18:27:18 CST] [EROR] (main.main:24) error
+[2018/05/17 18:27:18 CST] [CRIT] (main.main:39) Time to close out!
+[2018/05/17 18:27:26 CST] [INFO] (main.main:38) The time is now: 18:27:26 CST 2018/05/17
+[2018/05/17 18:27:26 CST] [CRIT] (main.main:39) Time to close out!
+[2018/05/17 18:27:26 CST] [INFO] (main.main:23) 123
+[2018/05/17 18:27:26 CST] [EROR] (main.main:24) error
